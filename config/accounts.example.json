@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "accounts": [
+    {
+      "id": "00000000-0000-4000-8000-000000000000",
+      "ownerLabel": "Example owner",
+      "accountLabel": "Primary",
+      "brokerLabel": "Example broker",
+      "boidLast4": "0000",
+      "consentedAt": "2026-08-08T00:00:00.000Z",
+      "enabled": false
+    }
+  ]
+}
